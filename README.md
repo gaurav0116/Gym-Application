@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# Gym web Application (React.JS)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I build this project using React.js and also use [Rapid API](https://rapidapi.com/hub) for feach dynamic data of [exercises](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) and their details and also use [youtube search and download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/) api for exercises related Youtube vidoos and creact beautiful & responsive design using [MaterialUI](https://v4.mui.com/).
 
-## Available Scripts
+## More Details of Project
 
-In the project directory, you can run:
+This Application provides 1000+ different types of exercises for all body parts and also can give a Seach exercise feature. Users can search specific Body parts exercises name, and muscle groups name and also search using exercise equipment name. All the data are dynamically gotten from the ExerciseDB rapid API. Click on any exercise and provide details like, exercise benefits, same type other exercises, same equipment exercises, and also provide their related youtube videos from the Youtube Search and Download API. Show demo of Application using below link
 
-### `npm start`
+[Project Link](https://gym-exercise-app-gp.netlify.app)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Photos
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 1. First Page
+![1](https://user-images.githubusercontent.com/83348870/177192813-9edaa92a-0ce7-467f-b21a-e7a4c8c91dc5.png)
 
-### `npm test`
+### 2. Search Option
+![2](https://user-images.githubusercontent.com/83348870/177193036-df40036e-d845-4d30-8184-8456da20239f.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Exercise Cards
+![3](https://user-images.githubusercontent.com/83348870/177193736-046ab21d-9a7a-43e1-8a28-c224df2fa329.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3. Select Particular Exercise
+![4](https://user-images.githubusercontent.com/83348870/177193854-5480e1dd-08bd-4423-b140-2831b90f26c7.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 4. Related youtube videos
+![4](https://user-images.githubusercontent.com/83348870/177194158-781f2ec8-4f31-4635-9904-b9ebadf8965f.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### 5. Selected exercise related other exercise 
+![6](https://user-images.githubusercontent.com/83348870/177194524-f958bd40-56ac-4e6e-a770-4ddd6dd01e37.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
