@@ -24,7 +24,6 @@ This Application provides 1000+ different types of exercises for all body parts 
 ![4](https://user-images.githubusercontent.com/83348870/177193854-5480e1dd-08bd-4423-b140-2831b90f26c7.png)
 
 ### 4. Related youtube videos
-![4](https://user-images.githubusercontent.com/83348870/177194158-781f2ec8-4f31-4635-9904-b9ebadf8965f.png)
 
 
 ### 5. Selected exercise related other exercise 
