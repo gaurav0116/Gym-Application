@@ -1,6 +1,6 @@
 # Gym web Application (React.JS)
 
-I build this project using React.js and also use [Rapid API](https://rapidapi.com/hub) for feach dynamic data of [exercises](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) and their details and also use [youtube search and download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/) api for exercises related Youtube vidoos and creact beautiful & responsive design using [MaterialUI](https://v4.mui.com/).
+I build this project using React.js and also use [Rapid API](https://rapidapi.com/hub) for feach dynamic data of [exercises](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) and their details and also use [youtube search and download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download/) api for exercises related Youtube videos and creact beautiful & responsive design using [MaterialUI](https://v4.mui.com/).
 
 ## More Details of Project
 
